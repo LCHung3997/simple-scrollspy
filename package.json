@@ -1,0 +1,24 @@
+{
+  "name": "simple-scrollspy",
+  "version": "1.0.0",
+  "description": "scrollSpy effect for web",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LeeHung97/NewPackage.git"
+  },
+  "keywords": [
+    "ScrollSpy",
+    "Javascript",
+    "umd"
+  ],
+  "author": "LeHung <lchung3997@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeeHung97/NewPackage/issues"
+  },
+  "homepage": "https://github.com/LeeHung97/NewPackage#readme"
+}
